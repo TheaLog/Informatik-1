@@ -1,0 +1,5 @@
+print ("Gib Zahl A ein:")
+stringA = input()
+stringB = input("Gib Zahl B ein:")
+Ergebnis = int(stringA) + int(stringB)
+print(Ergebnis)
