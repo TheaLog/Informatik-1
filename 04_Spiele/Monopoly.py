@@ -23,7 +23,6 @@ while Anz_Wurf < 3:
         elif Anz_Wurf == 3 and Würfel1 != Würfel2:
             print("Sie haben 3 mal geworfen, Sie müssen sich freikaufen")
             break
-
     else :
         print("Bitte geben Sie y oder n ein")
 
